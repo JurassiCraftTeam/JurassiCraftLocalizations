@@ -9,59 +9,12 @@ itemGroup.jurassicraft.decorations=JurassiCraft Park Decorations
 
 //Entities ==================================================
 entity.jurassicraft.velociraptor.name=Velociraptor
-entity.jurassicraft.spinosaurus.name=Spinosaurus
-entity.jurassicraft.rugops.name=Rugops
-entity.jurassicraft.indominus.name=Indominus
 entity.jurassicraft.tyrannosaurus.name=Tyrannosaurus
-entity.jurassicraft.stegosaurus.name=Stegosaurus
-entity.jurassicraft.achillobator.name=Achillobator
-entity.jurassicraft.carnotaurus.name=Carnotaurus
-entity.jurassicraft.giganotosaurus.name=Giganotosaurus
-entity.jurassicraft.majungasaurus.name=Majungasaurus
-entity.jurassicraft.compsognathus.name=Compsognathus
 entity.jurassicraft.dilophosaurus.name=Dilophosaurus
 entity.jurassicraft.gallimimus.name=Gallimimus
 entity.jurassicraft.parasaurolophus.name=Parasaurolophus
-entity.jurassicraft.ankylosaurus.name=Ankylosaurus
-entity.jurassicraft.segisaurus.name=Segisaurus
-entity.jurassicraft.pteranodon.name=Pteranodon
 entity.jurassicraft.triceratops.name=Triceratops
-entity.jurassicraft.coelacanth.name=Coelacanth
 entity.jurassicraft.brachiosaurus.name=Brachiosaurus
-entity.jurassicraft.dunkleosteus.name=Dunkleosteus
-entity.jurassicraft.hypsilophodon.name=Hypsilophodon
-entity.jurassicraft.dodo.name=Dodo
-entity.jurassicraft.charlie.name=Charlie
-entity.jurassicraft.delta.name=Delta
-entity.jurassicraft.blue.name=Blue
-entity.jurassicraft.echo.name=Echo
-entity.jurassicraft.leptictidium.name=Leptictidium
-entity.jurassicraft.microceratus.name=Microceratus
-entity.jurassicraft.oviraptor.name=Oviraptor
-entity.jurassicraft.apatosaurus.name=Apatosaurus
-entity.jurassicraft.othnielia.name=Othnielia
-entity.jurassicraft.dimorphodon.name=Dimorphodon
-entity.jurassicraft.tylosaurus.name=Tylosaurus
-entity.jurassicraft.ludodactylus.name=Ludodactylus
-entity.jurassicraft.protoceratops.name=Protoceratops
-entity.jurassicraft.tropeognathus.name=Tropeognathus
-entity.jurassicraft.leaellynasaura.name=Leaellynasaura
-entity.jurassicraft.herrerasaurus.name=Herrerasaurus
-entity.jurassicraft.therizinosaurus.name=Therizinosaurus
-entity.jurassicraft.megapiranha.name=Megapiranha
-entity.jurassicraft.baryonyx.name=Baryonyx
-entity.jurassicraft.cearadactylus.name=Cearadactylus
-entity.jurassicraft.mamenchisaurus.name=Mamenchisaurus
-entity.jurassicraft.chasmosaurus.name=Chasmosaurus
-entity.jurassicraft.corythosaurus.name=Corythosaurus
-entity.jurassicraft.edmontosaurus.name=Edmontosaurus
-entity.jurassicraft.lambeosaurus.name=Lambeosaurus
-entity.jurassicraft.metriacanthosaurus.name=Metriacanthosaurus
-entity.jurassicraft.moganopterus.name=Moganopterus
-entity.jurassicraft.ornithomimus.name=Ornithomimus
-entity.jurassicraft.zhenyuanopterus.name=Zhenyuanopterus
-entity.jurassicraft.troodon.name=Troodon
-entity.jurassicraft.pachycephalosaurus.name=Pachycephalosaurus
 
 //Items ==================================================
 item.plaster_and_bandage.name=Plaster and Bandage
@@ -177,7 +130,6 @@ item.petri_dish_agar.name=Petri Dish With Agar
 item.empty_test_tube.name=Empty Test Tube
 item.syringe.name={dino} Syringe
 item.empty_syringe.name=Empty Syringe
-item.entity_remover.name=Entity Remover
 item.storage_disc.name=Storage Disc
 item.dna_base_material.name=DNA Nucleotides
 item.cage_small.name=Small Cage
@@ -233,8 +185,8 @@ item.gracilaria.name=Gracilaria
 item.liquid_agar.name=Liquid Agar
 
 //Blocks ==================================================
-tile.fossil_block.name={period} Fossil
-tile.encased_fossil.name=Encased {period} Fossil
+tile.fossil_block.name={dinosaur} Fossil
+tile.encased_fossil.name=Encased {dinosaur} Fossil
 tile.plant_fossil_block.name=Plant Fossil
 tile.fossilized_trackway.name=Fossilized {variant} Trackway
 tile.nest_fossil.name=Fossilized Nest
@@ -276,9 +228,9 @@ tile.calamites_stairs.name=Calamites Stairs
 tile.calamites_slab.name=Calamites Slab
 tile.calamites_log_petrified.name=Petrified Calamites Log
 
-tile.small_royal_fern.name=Small Royal Fern
-tile.small_chain_fern.name=Small Chain Fern
-tile.small_cycad.name=Small Cycad
+tile.small_royal_fern.name=Royal Fern
+tile.small_chain_fern.name=Chain Fern
+tile.small_cycad.name=Cycad
 tile.bennettitalean_cycadeoidea.name=Cycadeoidea
 tile.cry_pansy.name=Cry Pansy
 tile.scaly_tree_fern.name=Scaly Tree Fern
@@ -383,6 +335,7 @@ gender.male.name=Male
 gender.female.name=Female
 gender.random.name=Random
 spawnegg.genderchange.name=This egg will now spawn a {mode} gender.
+actionfigure.genderchange.name=This action figure will now spawn a {mode} gender.
 amber.mosquito.name=Mosquito
 amber.aphid.name=Aphid
 
@@ -444,11 +397,23 @@ message.not_owned.name=You do not own this dinosaur!
 message.too_young.name=This dinosaur is too young to hold items!
 message.set_order.name=You have commanded your dinosaur to {order}.
 
+growth_stage.infant.name=Infant
+growth_stage.juvenile.name=Juvenile
+growth_stage.adolescent.name=Adolescent
+growth_stage.adult.name=Adult
+
 order.wander.name=Wander
 order.sit.name=Sit
 order.follow.name=Follow
 
 gui.select_order.name=Select Order
+
+gui.dinosaur_statistics.name=Dinosaur Statistics:
+gui.health.name=Health:
+gui.hunger.name=Hunger:
+gui.thirst.name=Thirst:
+gui.age.name=Age:
+gui.days_old.name={value} days old
 
 status.drowning.name=Drowning
 status.hungry.name=Hungry
@@ -457,6 +422,13 @@ status.poisoned.name=Poisoned
 status.sleepy.name=Sleepy
 status.tamed.name=Tamed
 status.thirsty.name=Thirsty
+status.flocking.name=Flocking
+status.scared.name=Scared
+status.carnivorous.name=Carnivorous
+status.herbivorous.name=Herbivorous
+status.diurnal.name=Diurnal
+status.nocturnal.name=Nocturnal
+status.crepuscular.name=Crepuscular
 
 info.triceratops.name=Triceratops lived in North America during the Late Cretaceous. They were herbivorous, eating mainly palms, cycads and ferns. When fully grown, Triceratops measured 8-9 m long and weighed 6-12 tons. The head frill was used for display, while the horns were used for attack and defence. Triceratops lives in family groups of 5 - 15 individuals led by an adult female matriarch.
 info.dilophosaurus.name=At 6-7 metres long, this Early Jurassic theropod from Arizona was one of the first large predatory dinosaurs. It had twin crests on its head that may have been for sexual display. Dilophosaurus is actually venomous, preferring to spit venom into its prey's eyes. If the venom hits the eyes, it causes blindness and agonizing pain, and eventually paralysis. Dilophosaurus lives in small, disorganized gangs (around 3 - 10 individuals) of both males and females.

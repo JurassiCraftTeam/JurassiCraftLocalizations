@@ -20,7 +20,7 @@ entity.jurassicraft.brachiosaurus.name=Brachiosaurus
 item.plaster_and_bandage.name=Plaster and Bandage
 
 item.attraction_sign.name={type} Attraction Sign
-attraction_sign.aquarium.name=Aquarium
+attraction_sign.aquarium.name=Aquariumdi
 attraction_sign.aquarium_coral.name=Aquarium With Coral
 attraction_sign.aviary.name=Aviary
 attraction_sign.aviary_plants.name=Aviary With Plants
@@ -119,7 +119,7 @@ item.dino_egg.name={dino} Egg
 item.hatched_egg.name=Hatched {dino} Egg
 item.dino_spawn_egg.name=Spawn {dino}
 item.dinosaur_meat.name={dino} Meat
-item.dinosaur_steak.name={dino} Steak
+item.dinosaur_steak.name=Cooked {dino} Meat
 item.dna.name={dino} DNA
 item.blue_print.name={type} Blue Print
 item.paddock_sign.name=Paddock Sign

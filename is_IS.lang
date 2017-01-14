@@ -1,0 +1,439 @@
+//Tabs ==================================================
+itemGroup.jurassicraft.items=JurassiCraft hlutir
+itemGroup.jurassicraft.blocks=JurassiCraft kubbar
+itemGroup.jurassicraft.dna=JurassiCraft DNA
+itemGroup.jurassicraft.foods=JurassiCraft matur
+itemGroup.jurassicraft.plants=JurassiCraft plöntur
+itemGroup.jurassicraft.fossils=JurassiCraft steingervingar
+itemGroup.jurassicraft.decorations=JurassiCraft garðskraut
+
+//Entities ==================================================
+entity.jurassicraft.velociraptor.name=Snareðla
+entity.jurassicraft.tyrannosaurus.name=Grameðla
+entity.jurassicraft.dilophosaurus.name=Kolleðla
+entity.jurassicraft.gallimimus.name=Hnúðeðla
+entity.jurassicraft.parasaurolophus.name=Slóeðla
+entity.jurassicraft.triceratops.name=Nashyrningseðla
+entity.jurassicraft.brachiosaurus.name=Finngálkn
+
+//Items ==================================================
+item.plaster_and_bandage.name=Gifs og vafningar
+
+item.attraction_sign.name=Sýningarskilti - {type}
+attraction_sign.aquarium.name=Sædýrasafn
+attraction_sign.aquarium_coral.name=Sædýrasafn með kóröllum
+attraction_sign.aviary.name=Fuglabúr
+attraction_sign.aviary_plants.name=Fuglabúr með plöntum
+attraction_sign.gallimimus_valley.name=Hnúðeðludalur
+attraction_sign.gallimimus_valley_plants.name=Hnúðeðludalur með plöntum
+attraction_sign.gentle_giants.name=Blíðir risar
+attraction_sign.gentle_giants_plants.name=Blíðir risar með plöntum
+attraction_sign.raptor_paddock.name=Snareðlubúr
+attraction_sign.raptor_paddock_plants.name=Snareðlubúr með plöntum
+
+item.skull_fresh.name=Ný höfuðkúpa - {dino}
+item.tooth_fresh.name=Ný tönn - {dino}
+item.anal_fin_fresh.name=Nýr gotraufaruggi - {dino}
+item.shoulders_fresh.name=Nýjar herðar - {dino}
+item.ribcage_fresh.name=Ný rifbein - {dino}
+item.foot_bones_fresh.name=Ný fótabein{dino}
+item.tail_fluke_fresh.name=Nýr sporður - {dino}
+item.armor_plating_fresh.name=Ný brynja - {dino}
+item.ribs_and_spine_fresh.name=Ný rif og hryggur - {dino}
+item.neck_vertebrae_fresh.name=Nýjir hálsliðir - {dino}
+item.pelvis_fresh.name=Ný mjaðmagrind - {dino}
+item.shoulder_blade_fresh.name=Nýtt herðablað - {dino}
+item.cheek_teeth_fresh.name=Nýjir jaxlar - {dino}
+item.tail_vertebrae_fresh.name=Nýjir halaliðir - {dino}
+item.second_dorsal_fin_fresh.name=Nýr annar bakuggi - {dino}
+item.pectoral_fin_bones_fresh.name=Ný eyruggabein - {dino}
+item.inner_teeth_fresh.name=Nýjar innri tennur - {dino}
+item.teeth_fresh.name=Nýjar tennur - {dino}
+item.shoulder_fresh.name=Ný öxl - {dino}
+item.mouth_plates_fresh.name=Nýjar munnplötur - {dino}
+item.hind_flipper_fresh.name=Nýtt afturbægsli - {dino}
+item.shoulder_bone_fresh.name=Ný herðabein - {dino}
+item.hind_leg_bones_fresh.name=Ný afturlimabein - {dino}
+item.tail_fresh.name=Nýr hali - {dino}
+item.front_flipper_fresh.name=Nýtt frambægsli - {dino}
+item.spine_fresh.name=Nýr hryggur - {dino}
+item.front_leg_bones_fresh.name=Ný framlimabein - {dino}
+item.neck_fresh.name=Nýr háls - {dino}
+item.body_fins_fresh.name=Nýjir kviðuggar - {dino}
+item.dorsal_fin_fresh.name=Nýr bakuggi - {dino}
+item.claw_fresh.name=Ný kló - {dino}
+item.tail_club_fresh.name=Ný halakylfa - {dino}
+item.leg_bones_fresh.name=Ný fótleggsbein - {dino}
+item.horn_fresh.name=Nýtt horn - {dino}
+item.pelvic_fin_bones_fresh.name=Ný kviðuggabein - {dino}
+item.thagomizer_fresh.name=Nýjir halagaddar - {dino}
+item.caudal_fin_fresh.name=Ný sporðblaðka - {dino}
+item.wing_bones_fresh.name=Nýr {dino}
+item.arm_bones_fresh.name=Ný handleggsbein - {dino}
+item.first_dorsal_fin_fresh.name=Nýr fyrsti bakuggi - {dino}
+
+item.fossilized_egg.name=Steingert egg
+
+item.skull.name=Höfuðkúpa - {dino}
+item.tooth.name=Tönn - {dino}
+item.anal_fin.name=Gotraufaruggi - {dino}
+item.shoulders.name=Herðar - {dino}
+item.ribcage.name=Rifbein - {dino}
+item.foot_bones.name=Fótabein - {dino}
+item.tail_fluke.name=Sporður - {dino}
+item.armor_plating.name=Brynja - {dino}
+item.ribs_and_spine.name=Rif og hryggur - {dino}
+item.neck_vertebrae.name=Hálsliðir - {dino}
+item.pelvis.name=Mjaðmagrind - {dino}
+item.shoulder_blade.name=Herðablað - {dino}
+item.cheek_teeth.name=Jaxlar - {dino}
+item.tail_vertebrae.name=Halaliðir - {dino}
+item.second_dorsal_fin.name=Annar bakuggi - {dino}
+item.pectoral_fin_bones.name=Eyruggabein - {dino}
+item.inner_teeth.name=Innri tennur - {dino}
+item.teeth.name=Tennur - {dino}
+item.shoulder.name=Öxl - {dino}
+item.mouth_plates.name=Munnplötur - {dino}
+item.hind_flipper.name=Afturbægsli - {dino}
+item.shoulder_bone.name=Herðabein - {dino}
+item.hind_leg_bones.name=Afturlimabein - {dino}
+item.tail.name=Hali - {dino}
+item.front_flipper.name=Frambægsli - {dino}
+item.spine.name=Hryggur - {dino}
+item.front_leg_bones.name=Framlimabein - {dino}
+item.neck.name=Háls - {dino}
+item.body_fins.name=Kviðuggar - {dino}
+item.dorsal_fin.name=Bakuggi - {dino}
+item.claw.name=Kló - {dino}
+item.tail_club.name=Halakylfa - {dino}
+item.leg_bones.name=Fótleggsbein - {dino}
+item.horn.name=Horn - {dino}
+item.pelvic_fin_bones.name=Kviðuggabein - {dino}
+item.thagomizer.name=Halagaddar - {dino}
+item.caudal_fin.name=Sporðblaðka - {dino}
+item.wing_bones.name=Vængbein - {dino}
+item.arm_bones.name=Handleggsbein - {dino}
+item.first_dorsal_fin.name=Fyrsti bakuggi - {dino}
+
+item.dino_egg.name=Egg - {dino}
+item.hatched_egg.name=Klakið egg - {dino}
+item.dino_spawn_egg.name=Framkalla {dino}
+item.dinosaur_meat.name=Kjöt - {dino}
+item.dinosaur_steak.name=Eldað kjöt - {dino}
+item.dna.name=DNA - {dino}
+item.blue_print.name=Bláprennt - {type}
+item.paddock_sign.name=Búrskilti
+item.soft_tissue.name=Mjúkir vefir - {dino}
+item.amber.name={stored} í rafi
+item.petri_dish.name=petrískál
+item.petri_dish_agar.name=Petrískál með agarhlaupi
+item.empty_test_tube.name=Tómt tilraunaglas
+item.syringe.name={dino} sprauta
+item.empty_syringe.name=Tóm sprauta
+item.storage_disc.name=Geymsludiskur
+item.dna_base_material.name=DNA-kirni
+item.cage_small.name=Lítið búr
+item.plant_dna.name=DNA - {plant}
+item.sea_lamprey.name=Frosin steinsuga
+item.iron_blades.name=Járnblöð
+item.iron_rod.name=Járnstöng
+item.growth_serum.name=Vaxtarefni
+item.needle.name=Nál
+item.plant_cells.name=Plöntufrumur
+item.plant_cells_petri_dish.name=Petrískál með plöntufrumum
+item.plant_callus.name=Plöntu-callus - {plant}
+item.tracker.name=Eftirlitsígræðsla
+item.helicopter_spawner.name=Þyrla
+item.disc_reader.name=Diskadrif
+item.laser.name=Leysir
+item.disc_jurassicraft_theme.name=JurassiCraft plata
+item.disc_troodons_and_raptors.name=JurassiCraft plata
+item.disc_dont_move_a_muscle.name=JurassiCraft plata
+item.action_figure.name=Leikfígúra - {dino}
+item.amber_cane.name=Rafstafur
+item.amber_keychain.name=Raflyklakippa
+item.mr_dna_keychain.name=Mr DNA-lyklakippa
+item.dino_scanner.name=Debug risaeðluskanni
+item.basic_circuit.name=Einföld leiðsla
+item.advanced_circuit.name=Flókin leiðsla
+item.iron_nugget.name=Járnmoli
+item.gypsum_powder.name=Gifsduft
+item.plant_soft_tissue.name=Plöntuvefir - {plant}
+item.plant_fossil.name=Plöntusteingervingur
+item.twig_fossil.name=Greinasteingervingur
+item.keyboard.name=Lyklaborð
+item.computer_screen.name=Tölvuskjár
+item.dna_analyzer.name=DNA skanni
+item.chilean_sea_bass.name=Sjóvartari frá Chile
+item.field_guide.name=Handbók InGen
+item.car_chassis.name=Undirstöðugrind
+item.car_engine_system.name=Vélakerfi bíls
+item.car_seats.name=Bílsæti
+item.car_tire.name=Bíldekk
+item.car_windscreen.name=Framrúða
+item.jeep_wrangler.name=Wrangler jeppi
+item.unfinished_car.name=Ókláraður bíll
+
+item.mural.name=Stórt málverk
+
+// Crops ========================================
+item.ajuginucula_smithii_seeds.name=Fornmintufræ
+item.ajuginucula_smithii_leaves.name=Fornmintulauf
+item.ajuginucula_smithii_oil.name=Fornmintuolía
+item.wild_onion.name=Villilaukur
+item.gracilaria.name=Sæmosi
+item.liquid_agar.name=Fljótandi agar
+
+//Blocks ==================================================
+tile.fossil_block.name=Steingervingur - {dinosaur}
+tile.encased_fossil.name=Hjúpaður steingervingur - {dinosaur}
+tile.plant_fossil_block.name=Plöntusteingervingalög
+tile.fossilized_trackway.name=Steingerð fótspor sem {variant} skildi eftir
+tile.nest_fossil.name=Steingert hreiður
+tile.encased_nest_fossil.name=Hjúpað steingert hreiður
+tile.amber_ore.name=Raflög
+tile.ice_shard.name=Ísbrotalög
+tile.moss.name=Mosi
+tile.peat.name=Mýrarjarðvegur
+tile.peat_moss.name=Mosahaugur
+
+tile.cleaning_station.name=Hreinsistöð
+tile.fossil_grinder.name=Steingervingabrytjari
+tile.dna_sequencer.name=DNA-lesari
+tile.dna_synthesizer.name=DNA-tillífari
+tile.embryonic_machine.name=Fósturtillífari
+tile.embryo_calcification_machine.name=Egghjúpari
+tile.incubator.name=Útungunarvél
+tile.dna_extractor.name=DNA-uppsogari
+tile.dna_combinator_hybridizer.name=DNA-samsetningar- og blendingsstöð
+tile.carnivore_feeder.name=Kjötætufóðurstöð
+
+tile.gypsum_stone.name=Gifs
+tile.gypsum_cobblestone.name=Gifsgrjót
+tile.gypsum_bricks.name=Gifsmúrsteinar
+
+tile.ginkgo_sapling.name=Græðlingur musteristrés
+tile.ginkgo_planks.name=Musterisviður
+tile.ginkgo_log.name=Musteristrjábolur
+tile.ginkgo_leaves.name=Laufblöð musteristrés
+tile.ginkgo_stairs.name=Musterisviðartröppur
+tile.ginkgo_slab.name=Musterisviðarplanki
+tile.ginkgo_log_petrified.name=Steinrunninn musteristrjábolur
+
+tile.calamites_sapling.name=Græðlingur tröllelftingar
+tile.calamites_leaves.name=Lauf tröllelftingar
+tile.calamites_log.name=Tröllelftingarbolur
+tile.calamites_planks.name=Tröllelftingarviður
+tile.calamites_stairs.name=Tröllelftingarviðartröppur
+tile.calamites_slab.name=Tröllelftingarviðarplanki
+tile.calamites_log_petrified.name=Steinrunninn tröllelftingarbolur
+
+tile.small_royal_fern.name=Konungsburkni
+tile.small_chain_fern.name=Keðjuburkni
+tile.small_cycad.name=Köngulpálmi
+tile.bennettitalean_cycadeoidea.name=Falski köngulpálmi
+tile.cry_pansy.name=Cry-fjóla
+tile.scaly_tree_fern.name=Hreisturtrjáburkni
+tile.cycad_zamites.name=Köngulpálmabróðir
+tile.dicksonia.name=Trjáburkni Dicksons
+tile.dicroidium_zuberi.name=Tvísturblaðka
+tile.west_indian_lilac.name=Vestur-Indíu-sírena
+tile.dictyophyllum.name=Sesarkrúnuburkni
+tile.serenna_veriformans.name=Eiturtrjáburkni
+tile.ladinia_simplex.name=Einfaldi köngulpálmi
+tile.orontium_mackii.name=Krítargullkylfa
+tile.umaltolepis.name=Musterisrunni
+tile.liriodendrites.name=Lýrurunni
+tile.raphaelia.name=Rafaelsburkni
+tile.encephalartos.name=Brauðpálmi
+
+tile.reinforced_stone.name=Endurbættur steinn
+tile.reinforced_bricks.name=Endurbættir múrsteinar
+
+tile.cultivate.name={color} Fósturvél
+
+tile.clear_glass.name=Slétt gler
+
+tile.feeder.name=Fóðurstöð
+
+tile.paleo_bale_cycadeoidea.name=Bennettspálmabaggi
+tile.paleo_bale_cycad.name=Köngulpálmabaggi
+tile.paleo_bale_fern.name=Burknabaggi
+tile.paleo_bale_leaves.name=Laufbaggi
+tile.paleo_bale_other.name=Fornplöntubaggi
+
+trackway.biped_medium.name=tvífætlingur
+trackway.biped_small.name=lítill tvífætlingur
+trackway.raptor.name=vígeðla
+
+// Crops ========================================
+tile.ajuginucula_smithii.name=Fornminta
+tile.wild_onion_plant.name=Villilaukur
+tile.gracilaria_seaweed.name=Sæmosi
+
+//Plants =========================================
+plants.small_royal_fern.name=Konungsburkni
+plants.calamites.name=Tröllelfting
+plants.small_chain_fern.name=Keðjuburkni
+plants.small_cycad.name=Köngulpálmi
+plants.ginkgo.name=Musteristré
+plants.bennettitalean_cycadeoidea.name=Falski köngulpálmi
+plants.cry_pansy.name=Cry-fjóla
+plants.scaly_tree_fern.name=Hreisturtrjáburkni
+plants.cycad_zamites.name=Köngulpálmabróðir
+plants.dicksonia.name=Trjáburkni Dicksons
+plants.ajuginucula_smithii.name=Fornminta
+plants.wild_onion.name=Villilaukur
+plants.dicroidium_zuberi.name=Tvísturblaðka
+plants.west_indian_lilac.name=Vestur-Indíu-sírena
+plants.dictyophyllum.name=Sesarkrúnuburkni
+plants.serenna_veriformans.name=Eiturtrjáburkni
+plants.ladinia_simplex.name=Einfaldi köngulpálmi
+plants.orontium_mackii.name=Krítargullkylfa
+plants.umaltolepis.name=Musterisrunni
+plants.liriodendrites.name=Lýrurunni
+plants.raphaelia.name=Rafaelsburkni
+plants.encephalartos.name=Brauðpálmi
+
+//Containers ==================================================
+container.cleaning_station=Hreinsistöð
+container.cleaning_station.cleanFossilButton=Hreinsa steingerving
+container.fossil_grinder=Steingervingabrytjari
+container.dna_sequencer=DNA-lesari
+container.dna_synthesizer=DNA-tillífari
+container.embryonic_machine=Fósturtillífari
+container.embryo_calcification_machine=Egghjúpari
+container.incubator=Útungunarvél
+container.dna_extractor=DNA-uppsogari
+container.dna_combinator_hybridizer=DNA-samsetningar- og blendingsstöð
+container.dna_combinator=DNA-samsetningarstöð
+container.dna_hybridizer=DNA-blendingsstöð
+container.cultivator=Fósturvél
+container.cultivator.progress=Gangur
+container.cultivator.cultivating=Fóstrar
+container.close.name=Loka
+container.feeder=Fóðurstöð
+cultivator.proximates.name=Almenn næringarefni
+cultivator.minerals.name=Steinefni
+cultivator.vitamins.name=Vítamín
+cultivator.lipids.name=Fitur
+
+//Others ==================================================
+blue_print.blank.name=Tómt
+lore.dna_quality.name=DNA-gæði: {quality}%
+lore.baby_dino.name=Krjúptu + hægri-smelltu til að framkalla risaeðluunga.
+lore.genetic_code.name=Kóði erfðaefnis: {code}
+lore.dinosaur.name=Dýrategund: {dino}
+lore.plant.name=Planta: {plant}
+lore.change_gender.name=Hægri-smelltu út í loftið til að breyta kyni
+item.record.jurassicraft_theme.desc=PigeonAce - Aðallag JurassiCraft
+item.record.troodons_and_raptors.desc=PigeonAce - Stingtannar og snareðlur
+item.record.dont_move_a_muscle.desc=PigeonAce - Engar hreyfingar
+
+cage.empty.name=Tómt
+gender.male.name=karlkyns
+gender.female.name=kvenkyns
+gender.random.name=handahófskennt
+spawnegg.genderchange.name=Þetta egg mun nú framkalla {mode} dýr.
+actionfigure.genderchange.name=Kyn þessarar leikfígúru verður nú {mode}.
+amber.mosquito.name=Moskítófluga
+amber.aphid.name=Blaðlús
+
+color.red.name=Rauð
+color.orange.name=Appelsínugul
+color.yellow.name=Gul
+color.green.name=Græn
+color.lime.name=Ljósgræn
+color.blue.name=Blá
+color.light_blue.name=Ljósblá
+color.purple.name=Fjólublá
+color.pink.name=Bleik
+color.magenta.name=Rauðfjólublá
+color.white.name=Hvít
+color.black.name=Svört
+color.brown.name=Brún
+color.gray.name=Grá
+color.silver.name=Ljósgrá
+color.cyan.name=Blágræn
+
+period.quaternary.name=Kvarter-tímabil
+period.neogene.name=Neógen-tímabil
+period.paleogene.name=Paleógen-tímabil
+period.cretaceous.name=Krítar-tímabil
+period.jurassic.name=Júra-tímabil
+period.triassic.name=Trías-tímabil
+period.permian.name=Perm-tímabil
+period.carboniferous.name=Kolatímabil
+period.devonian.name=Devón-tímabil
+period.silurian.name=Silúr-tímabil
+period.ordovician.name=Ordóvisíum-tímabil
+period.cambrian.name=Kambríum-tímabil
+
+//Achievements ==============================================
+achievement.jurassicraft.mod=JurassiCraft!
+achievement.jurassicraft.mod.desc=Prófaði JurassiCraft!
+
+achievement.jurassicraft.paleontology=Steingervingafræði
+achievement.jurassicraft.paleontology.desc=Bjó til gifs og vafninga!
+
+achievement.jurassicraft.amber=Forn skordýr
+achievement.jurassicraft.amber.desc=Gróf upp raflög og fann raf!
+
+achievement.jurassicraft.fossils=Hjúpun
+achievement.jurassicraft.fossils.desc=Hjúpaði steingerving með gifsi og vafningum!
+
+achievement.jurassicraft.cleaningStation=Hreinlæti!
+achievement.jurassicraft.cleaningStation.desc=Bjó til hreinsistöð!
+
+achievement.jurassicraft.fossilGrinder=Brytjarinn
+achievement.jurassicraft.fossilGrinder.desc=Bjó til steingervingabrytjara!
+
+achievement.jurassicraft.reinforcedStone=Öryggið fyrst!
+achievement.jurassicraft.reinforcedStone.desc=Bjó til endurbættan stein!
+
+//Other =============
+message.tame.name={dinosaur} var tamin af þér!
+message.not_owned.name=Þú átt ekki þetta dýr!
+message.too_young.name=Þetta dýr er of ungt til að bera hluti!
+message.set_order.name=Þú hefur sagt dýrinu þínu að {order}.
+
+growth_stage.infant.name=Nýfætt
+growth_stage.juvenile.name=Ungt
+growth_stage.adolescent.name=Hálfvaxið
+growth_stage.adult.name=Fullvaxið
+
+order.wander.name=Hreyfa sig frjálst
+order.sit.name=Sitja
+order.follow.name=Fylgja
+
+gui.select_order.name=Veldu skipun
+
+gui.dinosaur_statistics.name=Staða dýrs:
+gui.health.name=Heilsa:
+gui.hunger.name=Hungur:
+gui.thirst.name=Þorsti:
+gui.age.name=Aldur:
+gui.days_old.name={value} dagar
+
+status.drowning.name=Drukknandi
+status.hungry.name=Svangt
+status.low_health.name=Slæm heilsa
+status.poisoned.name=Eitrað
+status.sleepy.name=Þreytt
+status.tamed.name=Tamið
+status.thirsty.name=Þyrst
+status.flocking.name=Hópar sig
+status.scared.name=Hrætt
+status.carnivorous.name=Kjötæta
+status.herbivorous.name=Jurtaæta
+status.diurnal.name=Dagdýr
+status.nocturnal.name=Næturdýr
+status.crepuscular.name=Rökkurdýr
+
+info.triceratops.name=Nashyrningseðlur lifðu í N-Ameríku seint á krítartímabilinu. Þessar jurtaætur átu helst pálma, köngulpálma og burkna. Fullvaxnar nashyrningseðlur eru 8-9 metra langar, og þær vega 6-12 tonn. Höfuðskjöldurinn var aðallega til sýnis, en metra löng hornin voru til varnar og sóknar. Nashyrningseðlur ferðast um í litlum hjörðum (5-15 einstaklingar), þar sem eldra kvendýr ræður.
+info.dilophosaurus.name=Kolleðlan er 6-7 metra long kjötæta frá Arizona sem lifði snemma á júratímabilinu. Tvennir skúfar á höfði þessarar risaeðlu voru e.t.v. notaðir til sýnis í mökunaratferli hennar. Kolleðlan er eitruð, og reynir helst að spýta eitri sínu í augu bráðarinnar. Ef eitrið kemst í augun þá veldur það fyrst blindu og hræðilegum sársauka, sem breytist svo í fulla lömun. Kolleðlan myndar litla, 3 - 10 einstaklinga hópa, sem innihalda oftast bæði kyn.
+info.brachiosaurus.name=Finngálkn er risastór graseðla sem lifði í N-Ameríku. Fullvaxið getur það náð 25-26 metra lengd, yfir 9 metra hæð, og yfir 40 tonna þyngd. Talið er að það hafi étið lauf og barrnálar úr háum trjám, t.d. musteristrjám, barrtrjám, trjáburkna og stórra köngulpálma. Finngálkn lifa í 2 - 15 dýra hjörðum, þar sem einn æðsti karl eða ein æðsta kerla ræður. Þessi dýr hafa samskipti með köllum sem minna á eins konar "söng".
+info.parasaurolophus.name=Slóeðla var tegund af hlasseðlu sem lifði í N-Ameríku seint á krítartímabilinu. Hún var um 10 m löng og 2,5 tonn að þyngd. Langur, rörlaga skúfurinn á höfði hennar var holur að innan, og virkaði eins og hljóðfæri. Slóeðla var jurtaæta, og rétt eins og aðrar hlasseðlur þá notaði hún fjölda jaxla til þess að mylja fæðu. Slóeðlan lifir í um 5 - 50 dýra hjörðum þar sem finna má bæði karl- og kvendýr. Köll slóeðlu berast marga kílómetra, og geta verið mjög hávær.
+info.tyrannosaurus.name=Grameðlan var risastórt rándýr sem lifði í N-Ameríku við lok krítartímabilsins. Fullvaxin varð hún um 12-13 metra löng, og 6 tonn að þyngd. Hálfgróin bit sem fundist hafa á beinum jurtaætna benda til þess að grameðlan hafi verið rándýr. Hún var hins vegar einnig hrææta. Þessi ofbeldisfullu dýr vörðu yfirráðasvæði sín af mikilli hörku. Grameðlan er stórfengleg, en hana má alls ekki vanmeta!
+info.velociraptor.name=Snareðlan var smávaxin ráneðla sem lifði í Austur-Asíu seint á krítartímabilsinu. Þetta tækifærissinnaða rándýr lifði á margs konar bráð, allt frá smáum spendýrum og eðlum, upp í meðalstórar risaeðlur. Erfitt er að halda snareðlum, þar sem þær eru fljótar, gáfaðar og mjög árásargjarnar. Þær eiga það einnig til að sleppa úr haldi, og þær hafa gott minni. Þær geta náð hraða blettatígurs, og einnig geta þær stokkið allt að fjóra metra upp í loftið.
+info.gallimimus.name=Hnúðeðlan var jurtaæta (þó náskyld hættulegri ráneðlum) sem lifði í Mongólíu seint á Krítartímabilinu. Fullvaxin gat hnúðeðlan náð allt að 6 - 8 metra lengd. Þessi dýr héldu sig yfirleitt nærri vatni, þar sem þær bitu gróður og sigtuðu þörunga. Hnúðeðla var mjög fótfrá, en hámarkshraði hennar er óþekktur. Þessi hjarðardýr lifa í 10 - 100 dýra hópum, oftast með báðum kynjum. Hnúðeðlur eru mjög styggar, og þær geta tekið á rás við minnsta hættumerki.

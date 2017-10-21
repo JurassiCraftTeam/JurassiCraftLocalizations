@@ -565,9 +565,9 @@ status.flocking.name=集群
 status.scared.name=胆小
 status.carnivorous.name=肉食性
 status.herbivorous.name=草食性
-status.diurnal.name=日行性
+status.diurnal.name=昼行性
 status.nocturnal.name=夜行性
-status.crepuscular.name=黄昏行性
+status.crepuscular.name=晨昏性
 status.piscivorous.name=食鱼性
 status.insectivorous.name=食虫性
 

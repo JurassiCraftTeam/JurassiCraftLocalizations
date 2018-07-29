@@ -320,7 +320,7 @@ cultivator.lipids.name=Fitur
 
 //Others ==================================================
 blue_print.blank.name=Tómt
-lore.dna_quality.name=DNA-gæði: {quality}%
+lore.dna_quality.name=DNA-gæði: {quality}%%
 lore.baby_dino.name=Krjúptu + hægri-smelltu til að framkalla risaeðluunga.
 lore.genetic_code.name=Kóði erfðaefnis: {code}
 lore.dinosaur.name=Dýrategund: {dino}

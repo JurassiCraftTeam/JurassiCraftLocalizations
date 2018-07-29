@@ -456,7 +456,7 @@ cultivator.lipids.name=지방
 
 //Others ==================================================
 blue_print.blank.name=빈
-lore.dna_quality.name=DNA 퀄리티: {quality}%
+lore.dna_quality.name=DNA 퀄리티: {quality}%%
 lore.baby_dino.name=쉬프트 + 우클릭으로 아기 공룡 스폰
 lore.genetic_code.name=유전학 코드: {code}
 lore.dinosaur.name=Dinosaur: {dino}

@@ -456,7 +456,7 @@ cultivator.lipids.name=油脂
 
 //Others ==================================================
 blue_print.blank.name=空白
-lore.dna_quality.name=DNA质量：{quality}%
+lore.dna_quality.name=DNA质量：{quality}%%
 lore.baby_dino.name=Shift右键生成幼年恐龙
 lore.genetic_code.name=基因代码：{code}
 lore.dinosaur.name=恐龙：{dino}

@@ -320,7 +320,7 @@ cultivator.lipids.name=Lipide
 
 //Others ==================================================
 blue_print.blank.name=Blank
-lore.dna_quality.name=DNA Qualität: {quality}%
+lore.dna_quality.name=DNA Qualität: {quality}%%
 lore.baby_dino.name=Shift + Rechtsklick um ein Baby zu Spawnen
 lore.genetic_code.name=Genetischer Code: {code}
 lore.dinosaur.name=Dinosaurier: {dino}

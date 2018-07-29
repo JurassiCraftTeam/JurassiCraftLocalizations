@@ -343,7 +343,7 @@ cultivator.lipids.name=Lípidos
 
 //Others ==================================================
 blue_print.blank.name=En blanco
-lore.dna_quality.name=Calidad del ADN: {quality}%
+lore.dna_quality.name=Calidad del ADN: {quality}%%
 lore.baby_dino.name=Agacharse + Click derecho para aparecer un dinosaurio bebé
 lore.genetic_code.name=Código genético: {code}
 lore.dinosaur.name=Dinosaurio: {dino}
